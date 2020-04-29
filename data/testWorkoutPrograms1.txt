@@ -1,0 +1,2 @@
+strength	false	bench:5:5,squat:5:10
+plyo	false	squat:4:8

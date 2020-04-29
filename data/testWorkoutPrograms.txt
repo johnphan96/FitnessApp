@@ -1,0 +1,2 @@
+testprogram1	false	exercise1a:5:5,exercise1b:5:10
+testprogram2	false	exercise2:8:8
